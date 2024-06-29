@@ -1,0 +1,7 @@
+numpy
+pandas
+dash
+dash-bootstrap-components
+plotly
+flask
+yfinance
